@@ -24,7 +24,8 @@ The Nix community is nice. Be nice! Typically this means:
 
 1. Argument on technical details, not the people.
 2. Give the benefit of the doubt as much as possible. We all have different lives with different backgrounds.
-3. :)
+3. Keep in mind that all the work here is done by volunteers. Try and be grateful instead of feeling entitled.
+4. :)
 
 Things aren't set in stone and these as guidelines.
 
