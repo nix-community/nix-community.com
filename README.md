@@ -4,6 +4,11 @@ The @nix-community is a GitHub organization that works alongside the @NixOS orga
 
 The mission critical projects are hosted in the @NixOS organization. This is our playground.
 
+## Sub-sites
+
+* [nixpkgs-fmt](/nixpkgs-fmt/)
+* [awesome-nix](/awesome-nix/)
+
 ## FAQ
 
 ### What role does the @nix-community org plays in the nix ecosystem?
