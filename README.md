@@ -2,7 +2,7 @@
 
 The @nix-community is a GitHub organization that works alongside the @NixOS organization.
 
-The mission critical projects are hosted in the @NixOS organization. This is our playground. We can be less strict a
+The mission critical projects are hosted in the @NixOS organization. This is our playground.
 
 ## FAQ
 
