@@ -16,7 +16,7 @@ The @nix-community is the community playground. We don't need to be as strict wi
 
 Ideally the type of projects that are accepted have some level of maturity and can benefit from a shared ownership. The goal is to have as much projects maintained and not for the org to become a graveyard.
 
-We don't have a strict procedure. For now, ping one of the [org owners](#Org owners).
+We don't have a strict procedure. For now, ping one of the [org owners](#org-owners).
 
 ### What are the rules of engagement?
 
@@ -30,7 +30,7 @@ Things aren't set in stone and these as guidelines.
 
 The maintainer of a project gets admin access on the project they maintain. The maintainer is allowed to invite more people into the org and into his team.
 
-If you see a project that is under-maintained, submit PRs to fix it like if it was your own project. If the PRs don't get merged, ping the [org owners](#Org owners)
+If you see a project that is under-maintained, submit PRs to fix it like if it was your own project. If the PRs don't get merged, ping the [org owners](#org-owners)
 
 ### Org owners
 
