@@ -24,7 +24,7 @@ The Nix community is nice. Be nice! Typically this means:
 
 1. Argument on technical details, not the people.
 2. Give the benefit of the doubt as much as possible. We all have different lives with different backgrounds.
-3. Keep in mind that all the work here is done by volunteers. Try and be grateful instead of feeling entitled.
+3. Keep in mind that all the work here is done by volunteers.
 4. :)
 
 Things aren't set in stone and these as guidelines.
@@ -37,4 +37,4 @@ If you see a project that is under-maintained, submit PRs to fix it like if it w
 
 If you need to contact the org owners, see [the list of org owners](https://github.com/orgs/nix-community/people?utf8=%E2%9C%93&query=+role%3Aowner).
 
-Feel free to ping @zimbatm on IRC or Twitter.
+Come chat with us on the #nix-community channel on FreeNode!
