@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Nix community homepage
 
-You can use the [editor on GitHub](https://github.com/nix-community/nix-community.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The @nix-community is a GitHub organization that works alongside the @NixOS organization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The mission critical projects are hosted in the @NixOS organization. This is our playground. We can be less strict a
 
-### Markdown
+## FAQ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What role does the @nix-community org plays in the nix ecosystem?
 
-```markdown
-Syntax highlighted code block
+The @NixOS organization holds all the mission-critical projects such as Nix, nixpkgs, nixops, Hydra, ...
 
-# Header 1
-## Header 2
-### Header 3
+The @nix-community is the community playground. We don't need to be as strict with permissions. The org can host any projects that benefit from a shared ownership. We provide infrastructure and support for those projects as we as visibility.
 
-- Bulleted
-- List
+### What type of projects are eligible for inclusion?
 
-1. Numbered
-2. List
+Existing projects with some level of maturity are the best candidates for inclusion.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nix-community/nix-community.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We don't have a strict procedure. For now, ping one of the [org owners](https://github.com/orgs/nix-community/people?utf8=%E2%9C%93&query=+role%3Aowner) such as @zimbatm on IRC or Twitter.
