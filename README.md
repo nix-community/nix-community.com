@@ -10,7 +10,7 @@ The mission critical projects are hosted in the @NixOS organization. This is our
 
 The @NixOS organization holds all the mission-critical projects such as Nix, nixpkgs, nixops, Hydra, ...
 
-The @nix-community is the community playground. We don't need to be as strict with permissions. The org can host any projects that benefit from a shared ownership. We provide infrastructure and support for those projects as we as visibility.
+The @nix-community is the community playground. We don't need to be as strict with permissions. The org can host any projects that benefit from a shared ownership. We provide infrastructure and support for those projects as well as visibility.
 
 ### How do I get my project included?
 
@@ -27,9 +27,9 @@ The Nix community is nice. Be nice! Typically this means:
 3. Keep in mind that all the work here is done by volunteers.
 4. :)
 
-Things aren't set in stone and these as guidelines.
+Nothing's set in stone. Think of these as the guiding lines to our interactions.
 
-The maintainer of a project gets admin access on the project they maintain. The maintainer is allowed to invite more people into the org and into his team.
+The maintainer of a project gets admin access to the project they maintain. The maintainer is allowed to invite more people into the org and into their team.
 
 If you see a project that is under-maintained, submit PRs to fix it like if it was your own project. If the PRs don't get merged, ping the [org owners](#org-owners)
 
