@@ -4,11 +4,6 @@ The @nix-community is a GitHub organization that works alongside the @NixOS orga
 
 The mission critical projects are hosted in the @NixOS organization. This is our playground.
 
-## Sub-sites
-
-* [nixpkgs-fmt](/nixpkgs-fmt/)
-* [awesome-nix](/awesome-nix/)
-
 ## FAQ
 
 ### What role does the @nix-community org plays in the nix ecosystem?
@@ -42,4 +37,4 @@ If you see a project that is under-maintained, submit PRs to fix it like if it w
 
 If you need to contact the org owners, see [the list of org owners](https://github.com/orgs/nix-community/people?utf8=%E2%9C%93&query=+role%3Aowner).
 
-Come chat with us on the #nix-community channel on FreeNode!
+Come chat with us on the [#nix-community](irc://chat.freenode.net/nix-community) channel on FreeNode!
