@@ -1,5 +1,4 @@
-# Nix community homepage
-
+<img src="nix-community-logo.svg" width="100" height="100" alt="Nix community">
 The @nix-community is a GitHub organization that works alongside the @NixOS organization.
 
 The mission critical projects are hosted in the @NixOS organization. This is our playground.
