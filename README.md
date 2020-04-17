@@ -3,6 +3,21 @@ The @nix-community is a GitHub organization that works alongside the @NixOS orga
 
 The mission critical projects are hosted in the @NixOS organization. This is our playground.
 
+## Infrastructure
+
+To support our activities we have a little bit of infrastructure in place. All the configuration is available over here: https://github.com/nix-community/infra
+
+We have a number of CI runners runnings:
+* GitLab agent
+* BuildKite agent
+* Hydra ( https://hydra.nix-community.org/ )
+
+### Binary cache
+
+All the build results are being pushed to https://nix-community.cachix.org/
+
+See https://app.cachix.org/cache/nix-community for the installation instructions.
+
 ## FAQ
 
 ### What role does the @nix-community org play in the Nix ecosystem?
@@ -37,3 +52,4 @@ If you see a project that is under-maintained, submit PRs to fix it as if it was
 If you need to contact the org owners, see [the list of org owners](https://github.com/orgs/nix-community/people?utf8=%E2%9C%93&query=+role%3Aowner).
 
 Come chat with us on the [#nix-community](irc://chat.freenode.net/nix-community) channel on FreeNode!
+
