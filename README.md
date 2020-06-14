@@ -56,3 +56,6 @@ If you need to contact the org owners, see [the list of org owners](https://gith
 
 Come chat with us on the [#nix-community](irc://chat.freenode.net/nix-community) channel on FreeNode!
 
+## Sponsors
+
+* <img src="https://raw.githubusercontent.com/cachix/cachix/master/logo.png" width="200" alt="Cachix"> provides us with a free 1TB binary cache!
