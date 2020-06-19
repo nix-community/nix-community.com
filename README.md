@@ -58,4 +58,4 @@ Come chat with us on the [#nix-community](irc://chat.freenode.net/nix-community)
 
 ## Sponsors
 
-* <img src="https://raw.githubusercontent.com/cachix/cachix/master/logo.png" width="200" alt="Cachix"> provides us with a free 1TB binary cache!
+<img src="https://raw.githubusercontent.com/cachix/cachix/master/logo.png" width="200" alt="Cachix"> provides us with a free 1TB binary cache!
